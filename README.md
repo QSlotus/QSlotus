@@ -1,2 +1,3 @@
 Hi.I'm QSlotus.
-I don't want to do anything right now.
+I am a student in China.
+<object data="https://sr-card.qiusyan.top/106422231" type="image/svg+xml"></object>
